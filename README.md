@@ -1,5 +1,3 @@
-<!-- Vinay Kumar - GitHub Profile README -->
-
 <h1 align="center">👋 Hey there, I'm Vinay Kumar</h1>
 
 <p align="center">
